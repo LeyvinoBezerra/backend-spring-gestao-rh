@@ -1,2 +1,2 @@
-# backend-spring-gestao-rh
+# Backend-spring-gestao-rh
 Projeto backend Java Spring Boot
